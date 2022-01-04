@@ -9,12 +9,12 @@ I'm a Senior at Brown University pursuing an AB in Economics and Public Policy. 
   • Utilized Mallet to create 65 topic models that measure word co-occurrence 3,029 text files.<br />
 
 ## Past Work
-1. Data Analyst at Global Energy Monitor (Summer 2021): gained experience with Selenium WebDrivers, Pandas, and Python (in a private repo).<br />
+1. Data Analyst at Global Energy Monitor (Summer 2021): gained experience with Selenium, Pandas, and Python (in a private repo).<br />
 2. Head TA for Cybersecurity Ethics at Brown University (Fall 2021)<br />
 3. TA for Cybersecurity & International Relations at Brown University (Spring 2021)<br />
 
 ## Languages & Tools
-• Python
+Python
 • Pandas
 • BeautifulSoup
 • Mallet
